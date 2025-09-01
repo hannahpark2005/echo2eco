@@ -28,7 +28,3 @@ yarn-error.log*
 .firebaserc
 Model Export Firebase/
 .github
-
-firebase 2.json
-package 2.json
-package-lock 2.json
